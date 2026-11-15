@@ -19,6 +19,7 @@
 | 无缝切换对比文档 | CX-N 数据中心无缝迁移 vs CX-M 园区无线无缝漫游：从场景、机制、关键技术三方面对比两类无缝切换方案 | [PDF](product-notes/CX-N无缝迁移_vs_CX-M无线无缝漫游.pdf) |
 | 产品学习文档 | 公司全系列产品手册、公司简介、Open Networking、NPB 原理的学习总结（思维导图） | [产品手册](product-notes/产品手册总结.pdf) · [公司简介](product-notes/公司简介总结.pdf) · [Open Networking](product-notes/Open-Networking总结.pdf) · [NPB 原理](product-notes/NPB原理.pdf) |
 | GNS3 仿真实验拓扑 | 基于 GNS3 和 vAsterNOS 虚拟设备搭建的 OSPF、跨 VLAN 实验拓扑，配合 Wireshark 抓包验证 | [OSPF](gns3-labs/OSPF实验拓扑.drawio) · [跨 VLAN](gns3-labs/跨VLAN实验拓扑.drawio) |
+| EVPN-VXLAN 虚机无缝迁移实验报告 | 搭建 EVPN-VXLAN 分布式网关架构，完成跨 Leaf 节点的虚拟机热迁移验证与抓包分析 | [Word](./EVPN-VXLAN虚机无缝迁移实验报告.docx) |
 
 拓扑图是 draw.io 格式，GitHub 无法直接预览。下载后可以用 [app.diagrams.net](https://app.diagrams.net) 打开。
 
